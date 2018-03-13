@@ -5,4 +5,6 @@
 * [3rd-question](3rd-answer.md)
 * [4th question](4th-answer.md)
 * [5th question](5th-answer.md)
-* [my testing](7th-answer.md)
+* [cat1](cat1.md)
+* [cat2](cat2.md)
+* [cat3](cat3.md)
