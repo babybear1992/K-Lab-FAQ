@@ -29,3 +29,10 @@
 * zip/unzip file in K-Lab
 * run 评审脚本报错
 * pip命令可以在Kernel里面使用吗？
+* K-Lab可以fork自己的项目吗
+* 如何检查资源使用情况？ free du
+* K-Lab能用pytorch吗？(计算框架)
+* 参赛的token在哪里找？
+* K-Lab log输出 `%env MY_VAR=MY_VALUE`
+* 关于paddlepaddle的一些闭坑技巧
+`
