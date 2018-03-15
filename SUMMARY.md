@@ -35,4 +35,5 @@
 * 参赛的token在哪里找？
 * K-Lab log输出 `%env MY_VAR=MY_VALUE`
 * 关于paddlepaddle的一些闭坑技巧
-`
+* Notebook共享需求
+* 这个K-Lab经常运行出错后，/home/kesci/work下的文件就消失，运行python也没有任何输出 
