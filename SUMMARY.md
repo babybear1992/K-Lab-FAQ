@@ -37,3 +37,7 @@
 * 关于paddlepaddle的一些闭坑技巧
 * Notebook共享需求
 * 这个K-Lab经常运行出错后，/home/kesci/work下的文件就消失，运行python也没有任何输出 
+* 数据集怎么下载
+* kesci上有木有类似tqdm的进度条的包？
+* 数据集挂载不上
+* 提交之后报错
