@@ -23,3 +23,9 @@
 * Notebook导出问题/格式
 * checkpint/model保存
 * 持久化工作区大小，如何访问，数据丢失怎么办？
+* 初始化资源报错？
+* 页面显示busy
+* K-LAb检查内存和磁盘
+* zip/unzip file in K-Lab
+* run 评审脚本报错
+* pip命令可以在Kernel里面使用吗？
