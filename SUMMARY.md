@@ -1,42 +1,15 @@
 # Summary
 
-## K-Lab Basis
+## 当你运行项目
+* 项目创建之后可否修改数据集？(answer-01.md)
+* 项目生成的Notebook可以导出吗？(answer-02.md)
+* 可以使用pip命令吗？(answer-03.md)
+* 进入项目后，页面一直显示'初始化资源'怎么办？(answer-04.md)
+* 如何检查当前项目的计算资源使用情况？(answer-05.md)
+* 运行项目过程中，kernel报错怎么办？(answer-06.md)
+## 当你参与比赛
+* 如何解压缩或者压缩生成的参赛文件？(answer-07.md)
+* 如何提交参赛文件？(answer-08.md)
+* 如何查看自己的成绩？(answer-09.md)
 
-* [什么是K-Lab]()
-* [K-Lab提供什么样的计算资源？]()
-* [请问一个项目创建了之后它的数据集是不是就不能改动了]()
-* [tab补全不会出来提示]()
 
-## part2
-
-* [kernel崩掉怎么办]()
-* [多人组队时，提交Notebook文件怎么办？]()
-* [一个比赛/训练营，有多个Notebook文件怎么办？]()
-* [可以直接交本地Notebook吗]()
-* [在Jupyter里面加目录]()
-* [比赛提交信息错误]()
-* [Notebook导出问题/格式]()
-
-### part3 
-* [checkpint/model保存]()
-* [持久化工作区大小，如何访问，数据丢失怎么办？]()
-* [初始化资源报错？]()
-* [页面显示busy]()
-* [K-LAb检查内存和磁盘]()
-* [zip/unzip file in K-Lab]()
-* [run 评审脚本报错]()
-
-#### part4
-* [pip命令可以在Kernel里面使用吗？]()
-* [K-Lab可以fork自己的项目吗]()
-* [如何检查资源使用情况？ free du]()
-* [K-Lab能用pytorch吗？(计算框架)]()
-* [参赛的token在哪里找？]()
-* [K-Lab log输出 `%env MY_VAR=MY_VALUE`]()
-* [关于paddlepaddle的一些闭坑技巧]()
-* [Notebook共享需求]()
-* [这个K-Lab经常运行出错后，/home/kesci/work下的文件就消失，运行python也没有任何输出]()
-* [数据集怎么下载]()
-* [kesci上有木有类似tqdm的进度条的包?]()
-* [数据集挂载不上]()
-* [提交之后报错]()
