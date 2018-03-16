@@ -11,5 +11,3 @@
 * [如何解压缩或者压缩生成的参赛文件？](answer/answer-07.md)
 * [如何提交参赛文件？](answer/answer-08.md)
 * [如何查看自己的成绩？](answer/answer-09.md)
-
-
