@@ -1,9 +1,9 @@
 # Summary
 
-# part1
+## K-Lab Basis
 
-* [什么是K-Lab](6th-answer.md)
-* [K-Lab提供什么样的计算资源？](1st-answer.md)
+* [什么是K-Lab]()
+* [K-Lab提供什么样的计算资源？]()
 * [请问一个项目创建了之后它的数据集是不是就不能改动了]()
 * [tab补全不会出来提示]()
 
