@@ -1,1 +1,1 @@
-# <center>Life is short, Use K-Lab</center>
+# <center>Life is short, Why not use K-Lab</center>
