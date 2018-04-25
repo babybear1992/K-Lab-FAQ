@@ -1,1 +1,3 @@
-目前暂时不支持.ipynb文件的导出。用户可以进入Notebook后，点击【文件】下的【查看可打印版本】，实现对Notebook内容的PDF导出。
+在K-Lab Notebook页面内，依次点击工具栏中的【文件】-> 【导出为ipynb】，即可实现Notebook文件的导出。
+
+<img src="/images/export_notebook.png">
